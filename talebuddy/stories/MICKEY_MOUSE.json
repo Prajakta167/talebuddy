@@ -1,0 +1,22 @@
+{
+    "title": "MICKEY_MOUSE",
+    "about_story": "Mickey taught us, To laugh at yourself,is to love yourself",
+
+    "number_of_pages": "<1>",
+    "pages": [
+        {
+            "page_title": "Mickey-Our Happy Place",
+            "page_content": [
+                " 'Oh,Toodles!','Let's roll' Do u guys really remember these lines? Ofc,that's our mickey.",
+                "It brings back to our nostalia,a truly loved cartoon its not just a show but an emotion,a beautiful one.",
+                "A cheerful and mischievous character of all the time."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Mickey Mouse",
+            "url": "#"
+        }
+    ]
+}
